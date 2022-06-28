@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @ninichuuh
-- 👀 I’m interested in data, board games and technology..
+- 👀 I’m interested in data, board games and technology.
 - 🌱 I’m currently learning Python, JS and React
+
+🧑‍💻 Languages
+javascript  python html5 css 
+
+🧩 Frameworks/Libraries
+react nodejs spark
 
 <!---
 ninichuuh/ninichuuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
