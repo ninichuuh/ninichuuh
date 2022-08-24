@@ -1,14 +1,33 @@
 - 👋 Hi, I’m @ninichuuh
 - 👀 I’m interested in data, board games and technology.
-- 🌱 I’m currently learning Python, JS and React
 
-🧑‍💻 Languages
-javascript  python html5 css 
+- A little more about me...
 
-🧩 Frameworks/Libraries
-react nodejs spark
+```javascript
+const nino = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Css", "Html5"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node","Express"],
+        },
+         fontEnd: {
+            js: ["Reactjs", "react-redux", "tailwind"] 
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase",  "selenium"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building Webpages for firends and family",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+ I love
 
 <!---
 ninichuuh/ninichuuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
