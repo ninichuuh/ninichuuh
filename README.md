@@ -29,7 +29,7 @@ const nino = {
   
 ![ninichuuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninichuuh&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninouii&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninichuuh&layout=compact)
 
 <!---
 ninichuuh/ninichuuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
