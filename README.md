@@ -10,16 +10,16 @@ const nino = {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            js: ["Node","Express"],
+            js: ["NodeJS","Express"],
         },
          fontEnd: {
-            js: ["Reactjs", "react-redux", "tailwind"] 
+            js: ["ReactJS", "react-redux", "tailwind", "vue", "NextJS"] 
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongoDB", "MySql", "sqlite", "Prisma"],
         misc: ["Firebase",  "selenium"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Webpages for firends and family",
+    currentFocus: "Learning web3",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
