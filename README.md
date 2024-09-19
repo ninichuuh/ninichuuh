@@ -6,31 +6,21 @@
 ```javascript
 const nino = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Css", "Html5"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    code: ["TS/JS", "Python", "Rust"],
+    askMeAbout: ["computers", "games", "dogs"],
     technologies: {
         backEnd: {
-            js: ["NodeJS","Express"],
+            js: ["NodeJS","FastAPI","Express","Actix-web"],
         },
          fontEnd: {
-            js: ["ReactJS", "react-redux", "tailwind", "vue", "NextJS"] 
+            js: ["ReactJS", "VueJS/Volar", "SolidJS",  "NextJS"] 
         },
-        databases: ["mongoDB", "MySql", "sqlite", "Prisma"],
-        misc: ["Firebase",  "selenium"]
+        databases: ["mongoDB", "MySql", "InfluxDB","MariaDB","neo4J],
+        tools: ["Docker",  "selenium", "K8's", "Github Actions", "CLI Tools"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Learning web3",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-## <h3 align="left">GitHub Stats</h3>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninichuuh&layout=compact)
-
-<!---
-ninichuuh/ninichuuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
