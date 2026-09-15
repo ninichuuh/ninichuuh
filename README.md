@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Nino 👋</h1>
+<h1 align="center">Hi, I'm Nino</h1>
 
 <p align="center">
-  Full-stack developer from Croatia 🇭🇷, happiest when there's data to model and a graph to draw from it.
+  dev happiest when there's data to model and a graph to draw from it.
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### About me
 
-- 🧠 I build things end to end: TypeScript APIs on one side, React/Vue on the other, a database I've probably over-normalized in the middle.
-- 📊 Most of my side projects start the same way: "I wonder what this data looks like as a graph."
-- 🎲 Away from the keyboard: board games, dogs, and arguing about which of the two is better company.
-- 🦀 Currently spending my learning time on Rust.
+ I build things end to end: TypeScript APIs on one side, React/Vue on the other, a database I've probably over-normalized in the middle.
+ Most of my side projects start the same way: "I wonder what this data looks like as a graph."
+ Away from the keyboard: board games, dogs, and arguing about which of the two is better company.
+ Currently spending my learning time on Rust.
 
 ### Tech I reach for
 
